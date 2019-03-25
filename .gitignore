@@ -1,0 +1,31 @@
+# visual studio files
+/SherpaUI/SherpaUI.csproj.user
+/SherpaUI/obj
+/SherpaUI/bin
+
+# build system
+/.jenkins
+
+# node_modules
+/SherpaUI/node_modules
+
+# compiler output
+/SherpaUI/app/**/*.js
+/SherpaUI/app/**/*.map
+/SherpaUI/.angulardoc.json
+
+# log files
+/**/*.log
+
+/dist/
+
+package-lock.json
+
+/node_modules
+/src/app/services/configuration.service.ts
+
+TESTS*.xml
+/.vscode/
+/coverage
+
+/projects
